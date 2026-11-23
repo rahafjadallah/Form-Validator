@@ -6,11 +6,12 @@ A form validation application that checks user input and provides dynamic error 
 ---
 
 ## 🌐 Live Dimo
-
+(https://rahafjadallah.github.io/Form-Validator/)
 
 ---
 
 ## 📸 Screenshot
+<img width="695" height="646" alt="image" src="https://github.com/user-attachments/assets/c4f38802-aee7-46f1-9b85-bc67292441ef" />
 
 ---
 
